@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rvicky14
-- 👀 I’m interested in networking
+- 👀 I’m interested in s/w dev
 - 🌱 I’m currently learning java and python
 
 <!---
